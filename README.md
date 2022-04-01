@@ -6,7 +6,18 @@
 - 기존에 사람이 하나하나 다 관리하던 매거진 업무를 자동화 하는 프로젝트
 - 기존에 사용하던 Typeform과 Google Sheets를 사용
 
-<h3>프로젝트 환경 설정</h3>
+<details open>
+  <summary> English Ver </summary>
+  
+  <h2>Magazine Automation Project Conducted During Field Training</h2>
+
+- Field Training Period : 2020-12-28 ~ 2021-02-26
+- In-house program using Python, that automates specific work flow which was originally done all by human.
+- Use the previously used Typeform and Google Sheets
+  
+  </details>
+
+<h3>프로젝트 환경 설정 (Project Environment Setting) </h3>
 
 |tools|version|
 |-----|-------|
@@ -21,5 +32,6 @@
 |google-auth-oauthlib|0.4.2|
 |googleapis-common-protos|1.52.0|
 
-<h3> 매거진 자동화 프로젝트 순서도 </h3>
+<h3> 매거진 자동화 프로젝트 순서도 (Work flow of project) </h3>
+English Version will be updated.
 <img src = "https://user-images.githubusercontent.com/50768959/141367996-805fb80d-15b0-4151-946e-b0812ce24e70.png">
